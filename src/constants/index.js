@@ -1,0 +1,9 @@
+export const LOGIN = 'LOGIN';
+export const SIGNUP = 'SIGNUP';
+export const OFFICER_HOME = 'OFFICER_HOME';
+export const DPU_HOME = 'OFFICER_HOME';
+export const ADD_OFFICER = 'ADD_OFFICER';
+export const NOTIFICATIONS = 'NOTIFICATIONS';
+export const REQUEST_PERMISSIONS = 'REQUEST_PERMISSIONS';
+export const PERMISSION_DETAIL = 'PERMISSION_DETAIL';
+
